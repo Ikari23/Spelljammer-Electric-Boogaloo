@@ -1,0 +1,4 @@
+# Barco de Spelljamming
+La forma más eficaz de viajar por el [[Espacio Salvaje]] es utilizar una nave construida específicamente para tal fin. Los **barcos de spelljamming** vienen en una gran variedad de estilos. Algunos se asemejan a barcos navales, mientras que otras parecen insectos gigantes o criaturas marinas.
+
+Estas naves suelen estar capitaneadas por una sola persona que utiliza sus poderes mágicos para hacer que la nave vuele por la atmósfera y el [[Espacio Salvaje]]. El lanzador de conjuros encargado de hacer que la nave se mueva se sienta en un dispositivo parecido a un trono conocido como [[Timón de Spelljamming]]. El timón permite al lanzador de conjuros tomar el control total de la nave y pilotarla con sus pensamientos, como si moviera un miembro.

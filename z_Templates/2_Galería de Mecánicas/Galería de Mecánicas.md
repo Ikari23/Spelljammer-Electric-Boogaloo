@@ -1,0 +1,78 @@
+---
+ImportedOn: Saturday, 18 December 2021 8:41:47 PM
+up: 
+down:
+  - Template - Galería de Mecánicas
+same:
+  - Zona de Aventuras
+  - Arquetipo_Dominio_Etc.
+  - Trasfondo
+  - Elemento de Campaña
+  - Lista de Elenco
+  - Clase
+  - Concepto
+  - Criatura
+  - Deidad
+  - Enfermedad
+  - Lista de Eventos
+  - Dote
+  - Más Información
+  - Sinopsis de DM
+  - Artículo de Capacidades General
+  - Artículo General
+  - Artículo de Personajes General
+  - Artículo de Peligros General
+  - Artículo de Equipamiento General
+  - Artículo de Dungeon Master General
+  - Artículo de Juego General
+  - Tema Principal
+  - Lista de Grupos
+  - Grupo Comercial
+  - Grupo Militar
+  - Grupo Étnico
+  - Grupo Familiar
+  - Grupo Gubernamental
+  - Grupo Criminal
+  - Otro Grupo
+  - Grupo Religioso
+  - Peligro
+  - Incidente
+  - Habitante
+  - Individual
+  - Localización
+  - Objeto Mágico
+  - Recurso de Mecánicas
+  - Mercader
+  - Armadura_Escudo Mundano
+  - Objeto Mundano
+  - Arma Mundana
+  - Equipo con Nombre
+  - Objeto con Nombre
+  - Vehículo con Nombre
+  - Colección de Objetos
+  - Otra Lista
+  - Lista de Lugares
+  - Sinopsis de Jugador
+  - Gancho Argumental
+  - Idea Argumental
+  - Veneno
+  - Misión
+  - Raza
+  - Región Dimensional
+  - Región Geográfica
+  - Región Política
+  - Región Urbana
+  - Escena
+  - Asentamiento
+  - Habilidad
+  - Conjuro
+  - Galería de Historias
+  - Recurso de Historia
+  - Argumento
+  - Lista de Cosas
+  - Periodo de Tiempo
+  - Posición Titular
+  - Trampa
+  - Vehículo
+---
+# Galería de Mecánicas

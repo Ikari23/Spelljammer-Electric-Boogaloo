@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "40e97eb5ffdf43df",
+    "type": "split",
+    "children": [
+      {
+        "id": "3339f7b9964d8110",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PNJ/Jean-Pierre Adrien Blida.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe38fc712a1fd1fe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1a2beaafbb2406a2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2211fd571ad6d2ad",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Academia",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a518e307c2be922f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "69d323377a8f53bf",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "PNJ/Jean-Pierre Adrien Blida.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "19ae13627efc4f2a",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {}
+        }
+      },
+      {
+        "id": "09738aac72fa4c10",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      },
+      {
+        "id": "1bf7b5fdc615a2c3",
+        "type": "leaf",
+        "state": {
+          "type": "FANTASY_CALENDAR",
+          "state": {}
+        }
+      },
+      {
+        "id": "1bcb99c0ae465626",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "a17b89097bd73ad7",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "active": "3339f7b9964d8110",
+  "lastOpenFiles": [
+    "Bestiario/Horror Mecánico.md",
+    "Sesiones/Sesión 1 - Orientación (conflict 2022-08-09-21-14-27).md",
+    "Bestiario/Horror Mecánico (conflict 2022-08-09-21-14-27).md",
+    "Objetos/Vehículos/Barco de intereferencia de conjuros/Barco de Spelljamming.md",
+    "Sesiones/Sesión 2 - Prueba de Fuego.md",
+    "Sesiones/Sesión 3 - ¡Salida al Realmspace!.md",
+    "Sesiones/Sesión 1 - Orientación.md",
+    "Sesiones/Sesión 0.md",
+    "Objetos/Mágicos/Timón de Spelljamming.md",
+    "Objetos/Vehículos/Barco de intereferencia de conjuros/Barco Avispa.md"
+  ]
+}

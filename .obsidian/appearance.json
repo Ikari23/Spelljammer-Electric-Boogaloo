@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 15,
+  "cssTheme": "ITS Theme",
+  "accentColor": "#008500",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
+  ]
+}

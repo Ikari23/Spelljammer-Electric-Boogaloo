@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "40e97eb5ffdf43df",
+    "type": "split",
+    "children": [
+      {
+        "id": "d007df1cded083da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "718d491cd3ed382e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesiones/Sesión 5 - Semillas de la Destrucción.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe38fc712a1fd1fe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1a2beaafbb2406a2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2211fd571ad6d2ad",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Academia",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a5f338396fa4ccda",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a518e307c2be922f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "69d323377a8f53bf",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Sesiones/Sesión 5 - Semillas de la Destrucción.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "19ae13627efc4f2a",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {}
+        }
+      },
+      {
+        "id": "09738aac72fa4c10",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      },
+      {
+        "id": "1bf7b5fdc615a2c3",
+        "type": "leaf",
+        "state": {
+          "type": "FANTASY_CALENDAR",
+          "state": {}
+        }
+      },
+      {
+        "id": "1bcb99c0ae465626",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "a17b89097bd73ad7",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "b0654c36b4519f01",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Sesiones/Sesión 5 - Semillas de la Destrucción.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e847a20715ef28ab",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM"
+        }
+      }
+    ],
+    "currentTab": 7
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "templates:Insert template": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-gallery:Gallery": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "718d491cd3ed382e",
+  "lastOpenFiles": [
+    "Bestiario/Anadjiin.md",
+    "Sesiones/Sesión 5 - Semillas de la Destrucción.md",
+    "Especies/Juna.md",
+    "PNJ/Jean-Pierre Adrien Blida.md",
+    "PNJ/Frau Totenkinder.md",
+    "Untitled",
+    "Reglas/Conjuros/Detectar Magia.md",
+    "PNJ/Adrexx el Azul.md",
+    "PJ/Resis.md",
+    "PNJ/TPK-99.md",
+    "Bestiario/Aprendiz de Mago.md",
+    "Sesiones/Sesión 1 - Orientación.md",
+    "PNJ/Sor'kur.md",
+    "PNJ/Elminster Aumar.md",
+    "Sesiones/Sesión 0.md",
+    "PNJ/Krik'lit.md",
+    "z_Templates/1_Story World Templates/Events/Template - Lista de Eventos.md",
+    "Bestiario/Bandido.md",
+    "Objetos/Mágicos/Piedras Mensajeras.md",
+    "Bestiario/Horror Mecánico.md",
+    "Sesiones/Sesión 1 - Orientación (conflict 2022-08-09-21-14-27).md",
+    "Bestiario/Horror Mecánico (conflict 2022-08-09-21-14-27).md",
+    "Objetos/Vehículos/Barco de intereferencia de conjuros/Barco de Spelljamming.md",
+    "Sesiones/Sesión 2 - Prueba de Fuego.md",
+    "Sesiones/Sesión 3 - ¡Salida al Realmspace!.md"
+  ]
+}

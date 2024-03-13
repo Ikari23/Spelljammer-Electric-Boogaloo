@@ -1,0 +1,175 @@
+{
+  "mapMarkers": [
+    {
+      "id": "academia-spelljammer",
+      "lastAccessed": 1710261111328,
+      "markers": [
+        {
+          "id": "ID_78f9ea6a692a",
+          "type": "default",
+          "loc": [
+            -3.0433349609375,
+            2.3046875
+          ],
+          "layer": "%5B%5BAcademia%20Spelljammer%201-20240312145124693.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a983a2a8838",
+          "type": "default",
+          "loc": [
+            -4.974865641319173,
+            1.14904851942814
+          ],
+          "link": "Academia Spelljammer#Tiendas",
+          "layer": "%5B%5BAcademia%20Spelljammer%201-20240312145124693.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b94949ca5a2a",
+          "type": "default",
+          "loc": [
+            -4.034271240234375,
+            1.03515625
+          ],
+          "layer": "%5B%5BAcademia%20Spelljammer%201-20240312145124693.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b7a48ab69d8",
+          "type": "default",
+          "loc": [
+            -5.167083740234375,
+            0.953125
+          ],
+          "layer": "%5B%5BAcademia%20Spelljammer%201-20240312145124693.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6909a8699b28",
+          "type": "default",
+          "loc": [
+            -6.03338623046875,
+            3.63671875
+          ],
+          "layer": "%5B%5BAcademia%20Spelljammer%201-20240312145124693.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Localizaciones/Realmspace/Toril/Faerûn/Academia Spelljammer.md"
+      ]
+    },
+    {
+      "id": "Faerun_Map",
+      "locked": true,
+      "lastAccessed": 1710330609232,
+      "markers": [
+        {
+          "id": "ID_c908cb284bf8",
+          "type": "default",
+          "loc": [
+            299.6806927016237,
+            902.9753595752213
+          ],
+          "layer": "%5B%5BAsalto%20al%20Tren-20240313123248171.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_981b1a0999cb",
+          "type": "default",
+          "loc": [
+            424.1314861904561,
+            1157.5338008023784
+          ],
+          "layer": "%5B%5BAsalto%20al%20Tren-20240313123248171.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "2. Notas/Ideas/Asalto al Tren.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.2",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 2
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}

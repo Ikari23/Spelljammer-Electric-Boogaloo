@@ -1,0 +1,344 @@
+{
+  "main": {
+    "id": "40e97eb5ffdf43df",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8769c76ff995f0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "499c75abf9bf099a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DM/Reglas/Objetos/Mágicos/Anteojos de la Noche.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01c37cc87687b915",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb4dc8a3cb6a0083",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "866d515337b90156",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfa582596dc57feb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43725bfa106c1edf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5
+  },
+  "right": {
+    "id": "f6823c77d2ec7ccb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c725adc440663d9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5ad8d55bbe9cb6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. DM/Reglas/Objetos/Mágicos/Anteojos de la Noche.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6fed7fa79b9b82b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "449cad2839371352",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "465bd1866f5938cc",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6a7e6103a566529",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "152f68522bc284b2",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_39593979999b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 1491
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                }
+              }
+            }
+          },
+          {
+            "id": "da0880451b3034b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. DM/Reglas/Objetos/Mágicos/Anteojos de la Noche.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3ee911783dbad19",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_39593979999b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 1491
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                }
+              }
+            }
+          },
+          {
+            "id": "00af50d30fb45fcb",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_39593979999b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 1491
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                }
+              }
+            }
+          },
+          {
+            "id": "de9fa600a1f181ec",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_39593979999b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 1491
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                }
+              }
+            }
+          },
+          {
+            "id": "18dd743e80de58cd",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_39593979999b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 1491
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                }
+              }
+            }
+          },
+          {
+            "id": "8cf43f90c2bd2084",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_39593979999b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 1491
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "dbfolder:Create a new database table": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-gallery:Gallery": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian42-brat:BRAT": false,
+      "publish:Publish changes...": false,
+      "calendarium:Open Calendarium": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "media-extended:Open media": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "866d515337b90156",
+  "lastOpenFiles": [
+    "OUTPUT/index.html",
+    "OUTPUT/data.json",
+    "OUTPUT/pages/Untitled.html",
+    "attachment.tmp",
+    "OUTPUT/pages",
+    "OUTPUT",
+    "PubsidianConverter1.0alpha.exe",
+    "1. DM/Reglas/Estados/Envenenado.md",
+    "1. DM/Reglas/Estados/Cansancio.md",
+    "1. DM/Reglas/Conjuros/Cerradura Arcana.md",
+    "1. DM/Reglas/Conjuros/Caída de Pluma.md",
+    "1. DM/Reglas/Conjuros/Abrir.md",
+    "1. DM/Reglas/Conjuros/Acid Arrow.md",
+    "z_Templates/2_Galería de Mecánicas/Juego/Template - Artículo de Juego General.md",
+    "1. DM/Reglas/Estados/Conditions.md",
+    "z_Templates/2_Galería de Mecánicas/Recursos Mecánicos/Template - Recurso de Mecánicas.md",
+    "5. Mundo/Especies/Autógnomo.md",
+    "5. Mundo/Especies/Azotamentes.md",
+    "5. Mundo/Localizaciones/Espacio Salvaje.md",
+    "1. DM/Reglas/Objetos/Vehículos/Barco de Spelljamming/Barco de Spelljamming.md",
+    "5. Mundo/Especies/Giff.md",
+    "5. Mundo/Especies/Contemplador.md",
+    "2. Notas/Ideas/Asalto al Tren.md",
+    "Untitled.md",
+    "2. Notas/Ideas/Untitled.canvas",
+    "2. Notas/Ideas/Drawing 2024-03-13 12.45.56.excalidraw.md",
+    "z_Templates/1_Templates de la Historia del Mundo/Cosas/Template - Habitante.md",
+    "z_Templates/1_Templates de la Historia del Mundo/Eventos/Template - Periodo de Tiempo.md",
+    "z_Templates/1_Templates de la Historia del Mundo/Recursos/Template - Sinopsis de DM.md",
+    "z_Templates/1_Templates de la Historia del Mundo/Recursos/Template - Recurso de Historia.md",
+    "z_Templates/1_Templates de la Historia del Mundo/Otro/Template - Idea Argumental.md",
+    "z_Templates/1_Templates de la Historia del Mundo/Otro/Template - Gancho Argumental.md",
+    "z_Templates/1_Templates de la Historia del Mundo/Otro/Template - Galería de Historias.md",
+    "z_Attachments/Asalto al Tren-20240313123248171.webp",
+    "5. Mundo",
+    "4. Notas de Sesión",
+    "2. Notas",
+    "1. DM",
+    "z_Attachments/image-removebg-preview - 2024-03-11T163652.698.png",
+    "z_Attachments/Pasted image 20240311195253.png",
+    "z_Attachments/Pasted image 20240311170625.png",
+    "z_Attachments/Pasted image 20231002150255.png",
+    "z_Attachments/Pasted image 20230426152125.png",
+    "z_Attachments/Pasted image 20230426152040.png",
+    "z_Attachments/Pasted image 20230426152014.png",
+    "z_Attachments/Pasted image 20230426151910.png",
+    "z_Attachments/Pasted image 20230425175928.png"
+  ]
+}

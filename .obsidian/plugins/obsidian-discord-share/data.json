@@ -1,0 +1,23 @@
+{
+  "discordWebhookURL": [
+    {
+      "description": "general",
+      "url": "https://discord.com/api/webhooks/1217139652050550865/SHiEcijc96fLFkVw64AiK1G79D8jU82voLp8zqlHJQZxd1iRlHWMRAElY1h_v-CF_M_X"
+    }
+  ],
+  "attachmentsFolder": "",
+  "localSuggestionsLimit": 10,
+  "showPreviewInLocalModal": true,
+  "customBotUsername": "Obsidian Bot",
+  "customBotAvatarURL": "",
+  "useNoteTitleForEmbed": true,
+  "embedTitle": "",
+  "embedColor": "",
+  "embedURL": "",
+  "embedAuthor": "",
+  "embedDescription": "",
+  "embedThumbnail": "",
+  "embedFields": "",
+  "embedImage": "",
+  "embedFooter": ""
+}
